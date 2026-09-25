@@ -22,6 +22,7 @@ The CI/CD pipeline is implemented using Jenkins and Docker, and the application 
 - GitHub Webhook
 
 ## 🏗️ Architecture
+![DevOps CI/CD Architecture](architecture.png)
 
 ```text
 Developer
